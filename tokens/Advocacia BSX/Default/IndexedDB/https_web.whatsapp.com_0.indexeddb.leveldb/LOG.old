@@ -1,0 +1,36 @@
+2024/02/02-15:24:00.966 814c Reusing MANIFEST F:\Venom\tokens\Advocacia BSX\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/02-15:24:00.966 814c Recovering log #122
+2024/02/02-15:24:00.986 814c Reusing old log F:\Venom\tokens\Advocacia BSX\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000122.log 
+2024/02/02-15:24:26.502 7158 Level-0 table #128: started
+2024/02/02-15:24:26.640 7158 Level-0 table #128: 1231183 bytes OK
+2024/02/02-15:24:26.655 7158 Delete type=0 #122
+2024/02/02-15:24:27.190 7158 Compacting 1@1 + 2@2 files
+2024/02/02-15:24:27.345 7158 Generated table #129@1: 54755 keys, 2358776 bytes
+2024/02/02-15:24:27.461 7158 Generated table #130@1: 37334 keys, 1689179 bytes
+2024/02/02-15:24:27.461 7158 Compacted 1@1 + 2@2 files => 4047955 bytes
+2024/02/02-15:24:27.485 7158 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/02/02-15:24:27.485 7158 Delete type=2 #124
+2024/02/02-15:24:27.485 7158 Delete type=2 #125
+2024/02/02-15:24:27.485 7158 Delete type=2 #128
+2024/02/02-15:25:31.363 8128 Level-0 table #132: started
+2024/02/02-15:25:31.454 8128 Level-0 table #132: 1253194 bytes OK
+2024/02/02-15:25:31.469 8128 Delete type=0 #127
+2024/02/02-15:25:31.789 8128 Compacting 1@1 + 2@2 files
+2024/02/02-15:25:31.972 8128 Generated table #133@1: 53965 keys, 2371362 bytes
+2024/02/02-15:25:32.129 8128 Generated table #134@1: 44394 keys, 1921706 bytes
+2024/02/02-15:25:32.129 8128 Compacted 1@1 + 2@2 files => 4293068 bytes
+2024/02/02-15:25:32.154 8128 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/02/02-15:25:32.155 8128 Delete type=2 #129
+2024/02/02-15:25:32.155 8128 Delete type=2 #130
+2024/02/02-15:25:32.155 8128 Delete type=2 #132
+2024/02/02-15:26:12.968 8128 Level-0 table #136: started
+2024/02/02-15:26:13.098 8128 Level-0 table #136: 1086808 bytes OK
+2024/02/02-15:26:13.113 8128 Delete type=0 #131
+2024/02/02-15:26:13.942 7158 Compacting 1@1 + 2@2 files
+2024/02/02-15:26:14.100 7158 Generated table #137@1: 54895 keys, 2396610 bytes
+2024/02/02-15:26:14.267 7158 Generated table #138@1: 47235 keys, 2049014 bytes
+2024/02/02-15:26:14.267 7158 Compacted 1@1 + 2@2 files => 4445624 bytes
+2024/02/02-15:26:14.286 7158 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/02/02-15:26:14.286 7158 Delete type=2 #133
+2024/02/02-15:26:14.286 7158 Delete type=2 #134
+2024/02/02-15:26:14.286 7158 Delete type=2 #136
