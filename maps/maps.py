@@ -3,7 +3,7 @@ import googlemaps
 import time
 from tqdm import tqdm
 
-gmaps = googlemaps.Client(key='AIzaSyCcvCeFEnkVH0XkZ_sztAtdhrhYQXk974Y')
+gmaps = googlemaps.Client(key='YOUR_API_KEY')
 
 def buscar_lojas(ramo_atividade, quantidade, localizacao):
     resultados = []
